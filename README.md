@@ -1,5 +1,5 @@
 
-# GPU Pooling 高级知识库
+# GPU Pooling 学习笔记
 
 ## 简介
 
